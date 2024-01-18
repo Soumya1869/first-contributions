@@ -3,6 +3,7 @@
 - [Yashwanth Vignesh](https://github.com/Yashwanth-Vignesh)
 - [Myint Thway Khine](https://github.com/r1d3rzz)
 - [Shanit Paul](https://github.com/SlicePoh)
+- [Soumya Singh](https://github.com/Soumya1869)
 - [Pranav Tripathi] (https://github.com/mightyshibbu)
 - [Davit Natenadze](https://github.com/Natenadze)
 - [Minjae Lee](https://github.com/minleejae)
